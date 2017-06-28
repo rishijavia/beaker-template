@@ -139,15 +139,13 @@ technical reference for APIs and other aspects of beaker-pe. They describe
 how it works and how to use it but assume that you have a basic understanding
 of key concepts.
 
+Add beaker's [contributing guide](https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md) in your
+documentation. If the library is developed and supported by puppet it is important to follow
+that guide for future changes to your library.
+
 If you want a fully fleshed out example of what a full documentation table of
 contents might look like, checkout
 [beaker's docs](https://github.com/puppetlabs/beaker/blob/master/docs/README.md).
-
-Please also include a MAINTAINERS file and link to it from your README.md. This
-is so that people know how they can get feedback, and where they should go to
-seek that out. If you'd like a tool to help create these automatically, then
-please checkout Puppet's
-[maintainers gem](https://github.com/puppetlabs/maintainers).
 
 ## 6. Publish your library!
 
