@@ -139,9 +139,11 @@ technical reference for APIs and other aspects of beaker-pe. They describe
 how it works and how to use it but assume that you have a basic understanding
 of key concepts.
 
-Add beaker's [contributing guide](https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md) in your
-documentation. If the library is developed and supported by puppet it is important to follow
-that guide for future changes to your library.
+Add contributing guideline to your documentation. Our recommendation is to link
+beaker's contributing guide in your guideline. An example of what your 
+contributing guideline could be:
+
+- To contriute to this library please follow beaker's [contributing guide.](https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md)
 
 If you want a fully fleshed out example of what a full documentation table of
 contents might look like, checkout
